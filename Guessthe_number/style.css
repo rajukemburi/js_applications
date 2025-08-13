@@ -1,0 +1,28 @@
+html,body{
+   background-color: blueviolet;                 
+}
+#image{
+    margin-top: 10%; 
+    margin-left: 40%;             
+}
+#text{
+    margin-top: 5%;
+    margin-left: 30%;           
+} 
+#input_number{
+       margin-left: 40%; 
+       border-radius: 10%; 
+       padding: 15px;             
+}
+#btn{
+    margin-left: 44%; 
+    margin-top: 1%;
+    border-radius: 10px;
+    padding: 1%;   
+    font-size: 20px;    
+}
+#conclusion{
+     /* text-align: center;                */
+     margin-left: 37%;
+     color: beige;                
+}

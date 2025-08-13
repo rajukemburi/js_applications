@@ -1,0 +1,24 @@
+html,body{
+     margin-top: 10%;
+     margin-left: 20%;
+     /* background-color: blueviolet; */
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+}
+.red_btn{
+   background-color:red;                 
+}
+.green_btn{
+   background-color:greenyellow;                 
+}
+.yellow_btn{
+   background-color:yellow;                 
+}
+.orange_btn{
+   background-color:orange;                 
+}
+.pink_btn{
+   background-color:pink;                 
+}

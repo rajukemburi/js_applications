@@ -1,0 +1,23 @@
+html,body{
+      margin-top:10%;
+      margin-left:20%;    
+      background-color:powderblue;          
+}
+.btn1{
+      background-color:greenyellow;
+      padding:5px;
+      border-radius:5px;
+}
+.btn2{
+      background-color:aliceblue;
+      padding: 5px;
+      border-radius:5px;
+}
+.btn3{
+      background-color:red;
+      padding: 5px;
+      border-radius:5px;
+}
+#counter{
+      margin-left: 16%;
+}
